@@ -19,9 +19,6 @@
   ![snake gif](https://github.com/Abd-Alrahman-Saed/Abd-Alrahman-Saed/blob/output/github-snake-dark.svg)
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 </div>
